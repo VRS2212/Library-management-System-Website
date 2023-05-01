@@ -1,0 +1,37 @@
+
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 45px  50px;
+    font-size: medium;
+    padding: 17px;
+    background-color:rgb(176, 189, 189);
+}
+
+.container{
+    background-color:rgb(126, 118, 109);
+    padding: 5px 20px 15px 20px;
+    border: 1px solid rgb(2, 3, 2, 6);
+    border-radius: 4px;
+}
+
+h4,
+textarea{
+    width: 100%;
+    padding: 1px;
+}
+
+fieldset{
+    background-color: rgb(176, 189, 189);
+    border: 1px solid black;
+}
+
+input[type="button"]{
+    background-color: green;
+    width: 100%;
+    border: 1px green;
+    border-radius:2px;
+    font-weight: bold;
+    text-shadow: 10px;
+}
+
